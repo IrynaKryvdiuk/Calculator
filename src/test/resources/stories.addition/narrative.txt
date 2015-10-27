@@ -1,0 +1,6 @@
+Addition of two numbers
+In order to add numbers
+As a user
+I want to be able to get a correct result using Google Calculator
+
+

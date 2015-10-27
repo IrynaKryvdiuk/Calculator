@@ -1,0 +1,6 @@
+Operations with more then two numbers
+In order to perform operations with more then two numbers
+As a user
+I want to be able to get a correct result using Google Calculator
+
+

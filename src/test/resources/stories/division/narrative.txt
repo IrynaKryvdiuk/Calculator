@@ -1,0 +1,6 @@
+Division of two numbers
+In order to divide two numbers
+As a user
+I want to be able to get a correct result using Google Calculator
+
+

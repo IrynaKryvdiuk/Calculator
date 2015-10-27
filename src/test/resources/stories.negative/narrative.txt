@@ -1,0 +1,6 @@
+Incorrect user's actions
+In order to understand that I entered incorrect expression
+As a user
+I want to see notifications about errors
+
+
